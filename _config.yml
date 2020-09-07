@@ -1,9 +1,8 @@
 
-title: Jekyll Netlify CMS
-email: your-email@example.com
+title: Home Alarm Security
+email: info@homealarmsecurity.org
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the basic Jekyll starter site, with Netlify CMS integrated and using
-  Netlify Identity for authentication.
+  Find the Best Home Alarm Security. Just enter your zip code and we will find the home alarm security near you! Best selection of home alarm security.
 baseurl: "/jekyll-netlify-cms" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -46,14 +45,14 @@ prose:
           label: "Add Tags"
           placeholder: "Choose Tags"
           options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-            - name: "Pears"
-              value: "pears"
-            - name: "Mangos"
-              value: "mangos"
+            - name: "Vivint"
+              value: "vivint"
+            - name: "ADT"
+              value: "adt"
+            - name: "Simplisafe"
+              value: "simplisafe"
+            - name: "Brinks"
+              value: "brinks"
     _posts/static:
       - name: "layout"
         field:
