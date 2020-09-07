@@ -8,7 +8,7 @@ tags:
 ---
 ## A New Post
 
-![]({{site.baseurl}}/media/Home%20Automation%20for%20Beginners.jpg)![Home Automation for Beginners.jpg]({{site.baseurl}}/media/Home Automation for Beginners.jpg)
+![Home Automation for Beginners.jpg]({{site.baseurl}}/media/Home Automation for Beginners.jpg)
 
 Getting started with home automation can be overwhelming in the event that you attempt to jump to full smart-home status immediately. Rather, start little. 
 
