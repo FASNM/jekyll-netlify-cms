@@ -23,12 +23,12 @@ prose:
       - name: "category"
         field:
           element: "text"
-           label: "Category"
+          label: "Category"
           value: "blog"
       - name: "layout"
         field:
           element: "text"
-           label: "Layout"
+          label: "Layout"
           value: "post"
       - name: "title"
         field:
@@ -58,7 +58,7 @@ prose:
       - name: "layout"
         field:
           element: "text"
-           label: "Page layout"
+          label: "Page layout"
           value: "page"
       - name: "title"
         field:
