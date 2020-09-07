@@ -3,6 +3,9 @@ layout: blog
 category: blog
 published: false
 title: yow
+tags:
+  - bananas
+splash: /media/sprite.png
 ---
 ## A New Post
 
