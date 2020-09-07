@@ -1,5 +1,8 @@
 ---
+layout: blog
+category: blog
 published: false
+title: yow
 ---
 ## A New Post
 
