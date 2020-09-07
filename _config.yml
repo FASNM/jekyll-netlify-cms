@@ -22,11 +22,13 @@ prose:
     _posts:
       - name: "category"
         field:
-          element: "hidden"
+          element: "text"
+           label: "Category"
           value: "blog"
       - name: "layout"
         field:
           element: "text"
+           label: "Layout"
           value: "post"
       - name: "title"
         field:
@@ -56,6 +58,7 @@ prose:
       - name: "layout"
         field:
           element: "text"
+           label: "Page layout"
           value: "page"
       - name: "title"
         field:
