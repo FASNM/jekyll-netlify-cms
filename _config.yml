@@ -26,8 +26,8 @@ prose:
           value: "blog"
       - name: "layout"
         field:
-          element: "hidden"
-          value: "blog"
+          element: "text"
+          value: "post"
       - name: "title"
         field:
           element: "text"
@@ -55,7 +55,7 @@ prose:
     _posts/static:
       - name: "layout"
         field:
-          element: "hidden"
+          element: "text"
           value: "page"
       - name: "title"
         field:
