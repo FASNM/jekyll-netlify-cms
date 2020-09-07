@@ -6,7 +6,6 @@ title: Home Automation for Beginners
 tags:
   - bananas
 ---
-## A New Post
 
 ![Home Automation for Beginners.jpg]({{site.baseurl}}/media/Home Automation for Beginners.jpg)
 
