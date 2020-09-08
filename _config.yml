@@ -5,16 +5,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Find the Best Home Alarm Security. Just enter your zip code and we will find the home alarm security near you! Best selection of home alarm security.
 baseurl: "/jekyll-netlify-cms" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
-
-
-
-
 permalink: pretty
 markdown: kramdown
 prose:
   rooturl: '_posts'
- 
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
   metadata:
@@ -86,12 +80,12 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
-# - about.html
+ - about.html
 
 # social links
-twitter_username: jekyllrb
-github_username:  jekyll
-rss: rss
+twitter_username: homealarsecurity
+# github_username:  jekyll
+# rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
